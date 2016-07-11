@@ -57,9 +57,15 @@ Al seguir los capítulos en orden, van a experimentar un cierto ritmo que es el 
 * Ver proyectos idearse y tomar forma en base de mejores prácticas.
 * Hacer proyectos propios.
 
-## Capítulos
+## Capítulos y apéndices
 
 ...
 ...
 ...
+
+## Código de ejemplo
+
+## Otros recursos
+
+## En el primer capítulo, ..., vamos a ...
 
