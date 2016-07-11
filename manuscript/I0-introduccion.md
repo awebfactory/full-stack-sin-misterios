@@ -29,10 +29,22 @@ Luego en mayo de 2015, [Daniel Blumenthal](https://dandreamsofcoding.com/) escri
 
 Las etapas que [Dan](https://dandreamsofcoding.com/author/bratfarrar/) enumera son:
 
-...
-...
-...
-...
+* Incompetencia inconciente
+* Incompetencia conciente
+* Competencia conciente
+* Competencia inconciente
+
+### Incompetencia inconciente
+
+Es la etapa del alegre "cortar y pegar" de código ajeno que uno encuentra en [Stack Overflow](http://stackoverflow.com/) o en libros para poder producir programas o soluciones relativamente sencillos, y autoconvencernos (y a otros) que somos programadores. En su versión plena, el individuo cree que no hace falta nada más, es inconciente respecto a lo que podría aprender, piensa que no es necesario aprender nada. Hasta que lo es.
+
+### Incompetencia conciente
+
+Es la etapa de darse cuenta de que, para lograr algún objetivo importante, a uno le falta. De darse cuenta de la necesidad de adquirir expertis en un campo que no es de uno, para poder superar los bloqueos que surgen.
+
+### Competencia conciente
+
+### Competencia inconciente
 
 ## Cómo usar este libro
 
