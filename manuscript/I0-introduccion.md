@@ -8,9 +8,13 @@ Este abismo se expresa como una sensación de impotencia total, de sentir "no s�
 
 Las puentes que nos permiten cruzar ese abismo existen, pero están escondidas y obstruidas por capas de misterio.
 
+Nosotros ofrecemos una solución.
 
+We stand the problem on its head: en vez de seguir un camino de largo estudio, y luego el abordaje de un proyecto, abrazamos el método de "primero el proyecto" (project first). Así partimos del entorno completo que necesitamos para trabajar, y aprendimos lo que necesitamos a medida que avanzamos con el proyecto mismo, en pequeños pasos. 
 
+(aside) [Ir directamente al proyecto](' ')
 
+Al empezar con un proyecto
 
 Los autores de esta serie de libros ("X" sin misterios) lo escribimos para presentar abiertamente caminos, senderos y pasos a seguir desprovisto del misterio y "partes faltantes" que demasiadas veces son escollos inseparables del proceso de aprendizaje.
 
