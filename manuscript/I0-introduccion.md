@@ -1,5 +1,17 @@
 # Introducción {#intro-00}
 
+Nuevo inicio:
+
+Entre todos los cursos que encontramos en el internet a la hora de adquirir conocimientos prácticos en el desarrollo de soluciones y productos de software, por un lado, y la capacidad de crear una solución o producto uno mismo después de haber seguido un curso de aprendizaje, hay simplemente un abismo. 
+
+Este abismo se expresa como una sensación de impotencia total, de sentir "no sé por dónde empezar". Se trata de mirar a un editor de texto vacio, a una carpeta vacia, con una sola pregunta en la cabeza: ¿Por dónde empezar?
+
+Las puentes que nos permiten cruzar ese abismo existen, pero están escondidas y obstruidas por capas de misterio.
+
+
+
+
+
 Los autores de esta serie de libros ("X" sin misterios) lo escribimos para presentar abiertamente caminos, senderos y pasos a seguir desprovisto del misterio y "partes faltantes" que demasiadas veces son escollos inseparables del proceso de aprendizaje.
 
 Hemos experimentado en carne propia la desorientación, la desesperación y el dolor que, inecesariamente, acompaña el proces de adquisición del conocimiento práctico de lenguajes de programación, entornos de desarrollo y frameworks para aplicaciones web.
